@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">StylistPage</string>
+
+    <!-- Name -->
+    <array name="stylistName">
+        <item>Daniel</item>
+        <item>Yumi</item>
+        <item>Sunggyu</item>
+        <item>Angela</item>
+        <item>Albert</item>
+    </array>
+
+    <array name="bodyShape">
+        <item>Pear Shape</item>
+        <item>Apple Shape</item>
+        <item>Inverted Triangle Shape</item>
+        <item>Lean Column Shape</item>
+        <item>Rectangle Shape</item>
+        <item>Neat Hour Glass Shape</item>
+        <item>Full Hour Glass Shape</item>
+    </array>
+    <!-- Pictures -->
+    <array name="stylistIcon">
+        <item>albert</item>
+        <item>daniel</item>
+        <item>sunggyu</item>
+        <item>yumi</item>
+        <item>angela</item>
+    </array>
+
+    <!-- Ratings -->
+    <array name='stylistRating'>
+        <item>Star: 1</item>
+        <item>Star: 2</item>
+        <item>Star: 3</item>
+        <item>Star: 4</item>
+        <item>Star: 5</item>
+    </array>
+
+    <!-- Case Finished -->
+    <array name="caseFinished">
+        <item>Case Finished: 5-10</item>
+        <item>Case finished: 11-20</item>
+        <item>Case Finished: 21-30</item>
+        <item>Case Finished: 31-40</item>
+        <item>Case Finished: 41-50</item>
+        <item>Case Finished: >50</item>
+    </array>
+</resources>
